@@ -1,0 +1,6 @@
+# depslib dependency file v1.0
+1660583593 source:c:\users\vitor\onedrive\Área de trabalho\algo exercicios\lista 3\3ex8\main.c
+	<stdio.h>
+	<string.h>
+	<locale.h>
+
